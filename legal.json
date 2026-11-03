@@ -1,0 +1,141 @@
+{
+  "schemaVersion": 1,
+  "privacyPolicy": {
+    "version": "1.1",
+    "effectiveDate": "November 2, 2026",
+    "url": "https://mytime-app.github.io/mytime-support/",
+    "sections": [
+      {
+        "title": "Overview",
+        "body": "MyTime is an independently developed companion app for MyKronoz ZeTime watches. It is not affiliated with or endorsed by MyKronoz. MyTime does not sell personal information, display targeted advertising, or use advertising trackers or developer-operated behavioral analytics."
+      },
+      {
+        "title": "Information Stored on Your Device",
+        "body": "MyTime may store ZeTime identifiers, connection and synchronization preferences, activity, sleep and heart-rate records, battery readings, watch settings, goals, saved watch-face images and identifiers, music-service preferences, and Spotify authorization credentials. Spotify credentials are protected in the iOS Keychain. MyTime does not operate a server that receives your watch or health records."
+      },
+      {
+        "title": "Bluetooth",
+        "body": "Bluetooth is used to find, pair and reconnect a ZeTime; synchronize supported information; change watch settings; provide music controls; and transfer or remove custom watch faces. Information received from the watch stays on your device unless this policy specifically describes another use."
+      },
+      {
+        "title": "Weather and Location",
+        "body": "When weather synchronization is used, MyTime requests your device location at the precision permitted by iOS. Coordinates are sent to Open-Meteo to retrieve weather and forecast information. Apple services may be used to determine a readable city name. Activity, sleep, heart-rate and watch-identifying data are not included in weather requests. Open-Meteo states that troubleshooting logs may contain IP addresses and coordinates and are deleted after 90 days. You can revoke location access in iOS Settings, although weather synchronization may stop working."
+      },
+      {
+        "title": "Music Services",
+        "body": "If you select Spotify, MyTime communicates directly with Spotify to authenticate, retrieve current playback information and album artwork, and issue supported playback commands. MyTime never receives your Spotify password. If you select Apple Music, MyTime uses Apple system media APIs for supported playback information and controls. Track information is sent only to your connected ZeTime."
+      },
+      {
+        "title": "Watch-Face Photos",
+        "body": "Photos selected for custom watch faces are processed locally and transferred directly to the connected ZeTime over Bluetooth. Saved images remain in local app storage until you remove them or delete the app."
+      },
+      {
+        "title": "Optional Feedback",
+        "body": "Choosing Feedback or Support opens an external Google Form. Google and the publisher receive only the information you choose to submit. It may be retained as reasonably necessary to investigate the report, communicate with you, and improve MyTime."
+      },
+      {
+        "title": "Retention, Deletion, and Your Choices",
+        "body": "Activity, sleep, heart-rate, watch-face and preference data remain on your device until deleted using MyTime or by removing the app. Log out of Spotify before deleting MyTime because iOS Keychain credentials may persist after app deletion. Permissions can be revoked in iOS Settings. To request deletion of information voluntarily submitted through the feedback form, email mytime.watchapp@gmail.com."
+      },
+      {
+        "title": "Third-Party Services",
+        "body": "MyTime can interact with Open-Meteo, Spotify, Apple system services, and Google Forms. Their handling of information is governed by their own terms and privacy policies. The Publisher requires service providers receiving data from MyTime to protect it consistently with this policy and applicable law. Services may process information in countries different from your own."
+      },
+      {
+        "title": "Children's Privacy",
+        "body": "MyTime is not directed specifically toward children and does not knowingly request personal information from children. A child should use the app only with permission and supervision from a parent or legal guardian where required."
+      },
+      {
+        "title": "Changes and Contact",
+        "body": "This policy may change when MyTime's features or data practices change. A material update can require acknowledgment of a new policy version before the app continues. Questions and privacy requests can be sent to mytime.watchapp@gmail.com."
+      }
+    ]
+  },
+  "terms": {
+    "version": "1.0",
+    "effectiveDate": "August 9, 2026",
+    "url": "https://mytime-app.github.io/mytime-support/terms.html",
+    "sections": [
+      {
+        "title": "Agreement and App Store License",
+        "body": "These Terms and Conditions govern use of MyTime and supplement Apple's Standard Licensed Application End User License Agreement. If these terms conflict with Apple's Standard EULA or mandatory consumer law, the controlling EULA or law applies. The agreement is between you and the person or entity shown as MyTime's seller in the App Store (the “Publisher”), not Apple, MyKronoz, Spotify, or Open-Meteo."
+      },
+      {
+        "title": "Eligibility",
+        "body": "You must have the legal capacity to accept these terms. If you are below the age of legal majority or the minimum digital-consent age where you live, you may use MyTime only with permission and supervision from a parent or legal guardian."
+      },
+      {
+        "title": "Independent ZeTime Companion",
+        "body": "MyTime is an unofficial, independently developed interoperability tool for supported MyKronoz ZeTime watches. It is not manufactured, sponsored, approved, warranted, or supported by MyKronoz. ZeTime and other third-party names and marks belong to their respective owners. Compatibility can vary by watch model and firmware."
+      },
+      {
+        "title": "Permitted Use",
+        "body": "You may use MyTime on Apple devices you own or control as allowed by the App Store Usage Rules and Apple's Standard EULA. You must not misuse the app, interfere with services, violate applicable law, infringe third-party rights, attempt unauthorized access, or use the app to harm a device, service, or person."
+      },
+      {
+        "title": "Watch Communication and Modification Risk",
+        "body": "MyTime sends settings, synchronization commands, music information, images, and other supported data to a ZeTime. Bluetooth can disconnect and watches can reject, partially apply, or misinterpret commands. Watch-face transfers and experimental or firmware-dependent functions may fail, require reconnection, remove data, or require a watch reset. Keep important information backed up and do not interrupt transfers. MyTime is not a firmware updater unless a feature is expressly identified as one."
+      },
+      {
+        "title": "Health and Safety Disclaimer",
+        "body": "Step, calorie, distance, active-time, sleep, heart-rate and related information is provided for general wellness and informational purposes only. MyTime is not a medical device, does not provide medical advice, and must not be used to diagnose, treat, cure, prevent, monitor, or make urgent decisions about any medical condition. Contact a qualified professional or emergency service when appropriate."
+      },
+      {
+        "title": "Weather Disclaimer",
+        "body": "Weather data is supplied by Open-Meteo and may be delayed, unavailable, incomplete, or inaccurate. It must not be relied upon for emergency, aviation, marine, wildfire, severe-weather, personal-safety, or other high-risk decisions."
+      },
+      {
+        "title": "Music and External Services",
+        "body": "Spotify, Apple Music, Open-Meteo, Google Forms, iOS services, and linked websites are independent third-party services. Their availability, accounts, subscriptions, quotas, content, privacy practices, and terms are outside the Publisher's control. You must comply with their terms. Features may stop working if a provider changes or withdraws access."
+      },
+      {
+        "title": "Your Photos and Other Content",
+        "body": "You retain ownership of photos and other content you select. You confirm that you have permission to use and transfer that content and that it does not violate copyright, trademark, privacy, publicity, or other rights. You are responsible for content placed on your watch."
+      },
+      {
+        "title": "Privacy",
+        "body": "The MyTime Privacy Policy describes data handling and is incorporated into these terms. Optional permissions and third-party integrations remain subject to their own controls and policies."
+      },
+      {
+        "title": "Availability and Changes",
+        "body": "The app is provided as available. Features may be corrected, changed, suspended, or removed because of safety, compatibility, legal, platform, or third-party requirements. Updates may require new acceptance when these terms materially change."
+      },
+      {
+        "title": "No Warranty",
+        "body": "To the maximum extent permitted by law, MyTime is provided “as is” and “as available,” without guarantees of uninterrupted operation, accuracy, compatibility, fitness for a particular purpose, or error-free watch communication. This does not exclude warranties or consumer rights that cannot legally be excluded."
+      },
+      {
+        "title": "Limitation of Liability",
+        "body": "To the maximum extent permitted by law, the Publisher is not responsible for indirect, incidental, special, consequential, or punitive loss arising from use or inability to use MyTime, including lost data, missed notifications, inaccurate wellness or weather information, third-party outages, or watch-setting and watch-face transfer failures. Nothing here limits liability that applicable law does not permit to be limited."
+      },
+      {
+        "title": "Termination",
+        "body": "You may stop using MyTime at any time. Your permission to use it ends if you materially violate these terms. Sections that by their nature should survive termination—including ownership, disclaimers, and lawful limitations of liability—continue to apply."
+      },
+      {
+        "title": "Watch Profiles and Activity Insights",
+        "body": "MyTime organizes watch identifiers, settings, goals, watch faces, and wellness records into separate profiles for each connected ZeTime. The app uses locally stored activity records to calculate and display trends, averages, totals, goal completion rates, and similar insights. These calculations occur on the user’s device. MyTime does not send watch profiles, activity insights, activity records, sleep records, or heart-rate records to a developer-operated server."
+      },
+      {
+        "title": "Severability and No Waiver",
+        "body": "If any provision of these Terms is found unenforceable, it will be enforced to the maximum extent permitted by law and the remaining provisions will remain in effect. A failure or delay by the Publisher to enforce a provision does not waive the right to enforce it later."
+      },
+      {
+        "title": "Entire Agreement",
+        "body": "These Terms, the MyTime Privacy Policy, Apple’s applicable licensed-application terms, and any additional terms expressly presented for a particular feature form the agreement concerning use of MyTime. They replace prior statements concerning the same subject, except where applicable law provides otherwise."
+      },
+      {
+        "title": "Assignment",
+        "body": "You may not transfer your rights or obligations under these Terms except as permitted by applicable law. The Publisher may transfer these Terms in connection with a lawful transfer of MyTime or its business, subject to applicable privacy and consumer-protection requirements."
+      },
+      {
+        "title": "Interpretation and Mandatory Rights",
+        "body": "Headings are provided for convenience and do not limit the meaning of these Terms. Nothing in these Terms excludes, restricts, or waives warranties, remedies, liabilities, or other rights that cannot lawfully be excluded, restricted, or waived."
+      },
+      {
+        "title": "Contact",
+        "body": "Questions about these terms can be sent to mytime.watchapp@gmail.com. For legal notices, use the contact information associated with the Publisher's App Store seller account unless another address is published."
+      }
+    ]
+  }
+}
